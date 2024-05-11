@@ -13,4 +13,12 @@
 <h2>🏆 Github Trophy</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SL9-1994&theme=dark_lover&column=4&no-bg=true&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h2>✨ Other Accounts</h2>
+<h3>
+ <a href="https://sl91994.hatenablog.com/">Hatena Blog</a> 
+</h3>
+<h3>
+ <a href="https://zenn.dev/sl91994">Zenn</a>
+</h3>
 </div>
