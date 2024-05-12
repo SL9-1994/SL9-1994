@@ -5,7 +5,8 @@
   <p>🌱 I’m currently learning web-development&security</p>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SL9-1994&show_icons=true&theme=transparent&locale=ja)
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SL9-1994&layout=compact&show_icons=true&theme=transparent&locale=ja" />
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=SL9-1994&show_icons=true&theme=transparent&locale=ja" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SL9-1994&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SL9-1994&theme=transparent)
