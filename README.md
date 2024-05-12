@@ -3,6 +3,9 @@
 <h1>Hi there 👋</h3>
   <p>🔭 I’m currently working on application-development</p>
   <p>🌱 I’m currently learning web-development&security</p>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SL9-1994&show_icons=true&theme=transparent&locale=ja)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SL9-1994&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SL9-1994&theme=transparent)
