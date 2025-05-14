@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/SL9-1994/SL9-1994/main/profile-summary-card-output/aura/4-productive-time.svg)
+```
+
+    
