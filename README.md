@@ -22,7 +22,4 @@
 <h3>
  <a href="https://sl91994.hatenablog.com/">Hatena Blog</a> 
 </h3>
-<h3>
- <a href="https://zenn.dev/sl91994">Zenn</a>
-</h3>
 </div>
