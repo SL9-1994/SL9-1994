@@ -13,4 +13,4 @@
 
 <h2>🏆 Github Trophy</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SL9-1994&theme=dark_lover&column=4&no-bg=true&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-winning.vercel.app/?username=SL9-1994&theme=dark_lover&column=4&no-bg=true&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
